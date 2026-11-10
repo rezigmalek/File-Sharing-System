@@ -302,7 +302,7 @@ function SharedWithMeContent({ userId }: { userId: string }) {
 
   return (
     <div className="p-6">
-      <h2 className="text-2xl font-bold text-gray-900 mb-6">Shared with Me</h2>
+      <h2 className="text-2xl font-bold text-gray-900 mb-6">Shared with Meeee</h2>
       {shares.length === 0 ? (
         <div className="text-center py-16 text-gray-400">
           <Share2 className="w-12 h-12 mx-auto mb-4 opacity-50" />
